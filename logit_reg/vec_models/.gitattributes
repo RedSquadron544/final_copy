@@ -1,0 +1,5 @@
+word_vec_model_a.txt filter=lfs diff=lfs merge=lfs -text
+word_vec_model_d.txt filter=lfs diff=lfs merge=lfs -text
+word_vec_model_c.txt filter=lfs diff=lfs merge=lfs -text
+word_vec_model_s.bin filter=lfs diff=lfs merge=lfs -text
+word_vec_model_f.bin filter=lfs diff=lfs merge=lfs -text
